@@ -5,7 +5,7 @@ STOPPED = stop.txt
 TOKENS = tokens.txt
 FREQS = word_counts.txt
 TOP_WORDS = top.txt
-TABLE = table.txt
+TABLE = step4.txt
 
 
 # Run the full pipeline
